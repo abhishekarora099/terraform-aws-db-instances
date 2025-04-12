@@ -1,4 +1,4 @@
-output "instanceID" {
+output "INSTANCEID" {
     value = aws_instance.dbserver.id
   
 }
